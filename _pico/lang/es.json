@@ -1,0 +1,16 @@
+{
+  "language": "Español",
+  "code": "es",
+  "ui": {
+    "cheats": "Trucos",
+    "favorite": "Favorito",
+    "display_settings": "Ajustes de Pantalla",
+    "layout": "Disposición",
+    "sort_mode": "Modo de Orden",
+    "launch": "Iniciar",
+    "back": "Volver",
+    "no_cheats": "No se encontraron trucos para este juego.",
+    "warning_missing_files": "Advertencia: Faltan archivos esenciales de Pico Loader en /_pico."
+  }
+}
+

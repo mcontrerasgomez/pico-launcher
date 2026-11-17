@@ -1,0 +1,16 @@
+{
+  "language": "English",
+  "code": "en",
+  "ui": {
+    "cheats": "Cheats",
+    "favorite": "Favorite",
+    "display_settings": "Display Settings",
+    "layout": "Layout",
+    "sort_mode": "Sort Mode",
+    "launch": "Launch",
+    "back": "Back",
+    "no_cheats": "No cheats found for this game.",
+    "warning_missing_files": "Warning: Essential Pico Loader files are missing in /_pico."
+  }
+}
+
